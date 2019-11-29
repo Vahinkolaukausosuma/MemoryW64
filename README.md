@@ -3,9 +3,9 @@ Trash lua memory wrapper
 
 File tree:
 
-64bit_lua.exe
-lua5.1.dll
-memory/core.dll
+> 64bit_lua.exe
+> lua5.1.dll
+> memory/core.dll
 
 Example
 
